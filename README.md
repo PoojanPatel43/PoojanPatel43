@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at MIT WPU.
 - 🤝 &nbsp; I’m looking for help with Data Structures and Algorithms, Competitive Programming
 - 👯 &nbsp; I’m looking to collaborate on Web Development Projects, Python Projects
