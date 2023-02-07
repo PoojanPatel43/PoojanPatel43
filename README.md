@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at MIT WPU.
-- 🤝 &nbsp; I’m looking for help with Data Structures and Algorithms, Competitive Programming
 - 👯 &nbsp; I’m looking to collaborate on Web Development Projects, Python Projects
 - 🌱 &nbsp; Learning more about Database and Design templets.
 
