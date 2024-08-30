@@ -1,42 +1,60 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+# 👋 Hi, I'm Poojan Patel
 
-<h2> Hey there! I'm Poojan.</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a passionate Full Stack Developer and Data Scientist based in Kenosha, Wisconsin. Currently pursuing my Master’s of Computer and Information Science at the University of Wisconsin-Parkside. I love to work on innovative projects that challenge my skills and expand my knowledge.
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science at MIT WPU.
-- 👯 &nbsp; I’m looking to collaborate on Web Development Projects, Python Projects
-- 🌱 &nbsp; Learning more about Database and Design templets.
+## 🛠️ Technical Skills
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br/>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🚀 Projects
 
-<a href="https://www.instagram.com/patelpoojan2573/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-patelpoojan2573-blue?style=flat-square&logo=instagram"></a>
-<a href="patelpoojan2573@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patelpoojan2573@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### Full Stack E-commerce Platform
+- **Tech Stack:** React, NodeJS, Express, MongoDB
+- **Description:** Developed a comprehensive e-commerce platform with real-time features using WebSocket. Managed an inventory of over 1,000 products with secure database interactions.
+
+### Yoga Posture Recognition
+- **Tech Stack:** Python, ReactJS, TensorFlow
+- **Description:** Built an interface capable of identifying up to 15 yoga poses with 96% accuracy, providing real-time feedback to enhance user experience.
+
+### EduTrack System for Educational Institutions
+- **Tech Stack:** Java, JSP, Spring Framework, MySQL
+- **Description:** Designed and deployed an educational management system to manage data for over 2,000 students, improving administrative efficiency by 40%.
+
+## 📫 How to reach me
+- **Email:** [patel117@rangers.uwp.edu](mailto:patel117@rangers.uwp.edu)
+- **LinkedIn:** [Poojan Patel](https://www.linkedin.com/in/poojan-patel-4a4412282/)
+
+## 🌱 Fun Facts
+- I'm always eager to learn new technologies and improve my existing skills.
+- I enjoy working on projects that solve real-world problems.
