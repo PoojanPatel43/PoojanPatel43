@@ -51,6 +51,23 @@ I'm a passionate Full Stack Developer and Data Scientist based in Kenosha, Wisco
 - **Tech Stack:** Java, JSP, Spring Framework, MySQL
 - **Description:** Designed and deployed an educational management system to manage data for over 2,000 students, improving administrative efficiency by 40%.
 
+### Predictive Analysis of One Day International (ODI) Cricket Matches
+- **Tech Stack:** Python, Machine Learning
+- **Description:** Leveraged historical data and machine learning models to predict total scores in ODI cricket matches, assisting teams in strategy formulation.
+
+### Crop Yield Prediction
+- **Tech Stack:** Python, TensorFlow, Pandas, Power BI
+- **Description:** Developed a predictive model for accurate crop yield forecasting using various machine learning techniques.
+
+### Handwritten Character Recognition
+- **Tech Stack:** Python, CNN, Data Visualization
+- **Description:** Developed a system using Convolutional Neural Networks (CNN) to recognize handwritten English characters. Published a research paper on this project, showcasing expertise in computer vision and deep learning.
+
+## 📜 Publications
+
+- **"An Answer to All WH Questions on Cyber Security"** - Published in IEEE.
+- **"Handwritten English Character Recognition Using CNN"** - Published in IEEE.
+
 ## 📫 How to reach me
 - **Email:** [patel117@rangers.uwp.edu](mailto:patel117@rangers.uwp.edu)
 - **LinkedIn:** [Poojan Patel](https://www.linkedin.com/in/poojan-patel-4a4412282/)
