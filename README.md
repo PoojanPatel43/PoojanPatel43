@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Poojan Patel
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a passionate Full Stack Developer and Data Scientist based in Kenosha, Wisconsin. Currently pursuing my Master’s of Computer and Information Science at the University of Wisconsin-Parkside. I love to work on innovative projects that challenge my skills and expand my knowledge.
 
