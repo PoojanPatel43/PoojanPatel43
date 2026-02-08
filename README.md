@@ -168,6 +168,24 @@ open_to: Backend Engineering, AI/ML Engineering, Full Stack roles
 </td>
 <td width="50%">
 
+### 🔗 [URL Shortener Service](https://github.com/PoojanPatel43/url-shortener)
+
+**Production-Ready Backend API**
+
+`Java 17` `Spring Boot` `PostgreSQL` `JWT` `Docker` `OpenAPI`
+
+> Full-featured URL shortening service with JWT authentication, click analytics, rate limiting, and API key management.
+
+- RESTful API with Swagger documentation
+- Click tracking with browser/device/location analytics
+- Admin dashboard with platform statistics
+- Containerized with Docker Compose
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🧘‍♂️ Yogifi AI *(In Progress)*
 
 **AI-Powered Wellness Platform**
@@ -181,6 +199,9 @@ open_to: Backend Engineering, AI/ML Engineering, Full Stack roles
 - AI-powered personalized coaching
 
 </td>
+<td width="50%">
+
+</td>
 </tr>
 </table>
 
@@ -190,10 +211,10 @@ open_to: Backend Engineering, AI/ML Engineering, Full Stack roles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PoojanPatel25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojanPatel25&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PoojanPatel43&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojanPatel43&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanPatel25&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanPatel43&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="170"/>
 
 </div>
 
