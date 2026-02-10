@@ -14,6 +14,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojanpatel3202@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
+![Profile Views](https://komarev.com/ghpvc/?username=PoojanPatel43&color=58A6FF&style=flat-square&label=Profile+Views)
+
 </div>
 
 -----
